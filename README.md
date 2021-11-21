@@ -1,6 +1,6 @@
 # Ensemble-Methods-in-Machine-Learning 
  
- ### Bagging: 
+ ### Bagging:
  
 Bagging is a technique for merging the outputs of various models (for example, all decision trees) to produce a more generic result. Here's a question for you: Will it be useful if you develop all the models on the same set of data and integrate them? Given the same input, there's a good likelihood that these models will produce the same outcome. So, what are our options for resolving this issue? Bootstrapping is one of the techniques.
 

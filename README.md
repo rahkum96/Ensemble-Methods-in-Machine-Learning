@@ -46,4 +46,4 @@ Boosting is a sequential procedure in which each successive model seeks to recti
 - GBM
 - XGBM
 - Light GBM
-- CatBoost
+- CatBoost 

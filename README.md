@@ -47,3 +47,23 @@ Boosting is a sequential procedure in which each successive model seeks to recti
 - XGBM
 - Light GBM
 - CatBoost 
+
+
+## Usage
+
+- Just run `jupyter notebook` in terminal and it will run in your browser.
+
+  Install Jupyter [here](http://jupyter.readthedocs.io/en/latest/install.html) i've you haven't.
+
+- install xgboost by using `pip install xgb` in command line prompt/ anconda  i've you haven't.
+
+## Modules needed:
+```
+- xgboost
+- Pandas
+- Scikit-Learn &
+- seaborn
+```
+
+## Dataset:
+Please take a look notebook in folder, data set already uploaded in folders. And detailed Explaination of each steps are mentioned. 
